@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/callisto/Desktop/DSA/Lab2/MissionImpossibleSort/missionimpossibesort.gpr</vfs_project>
+      <vfs_file>/home/callisto/Desktop/DSA/Lab2/MissionImpossibleSort/src/linksort.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 34" >
+      <vfs_project>/home/callisto/Desktop/DSA/Lab2/MissionImpossibleSort/missionimpossibesort.gpr</vfs_project>
+      <vfs_file>/home/callisto/Desktop/DSA/Lab2/MissionImpossibleSort/src/linksort.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 9" >
+      <vfs_project>/home/callisto/Desktop/DSA/Lab2/MissionImpossibleSort/missionimpossibesort.gpr</vfs_project>
+      <vfs_file>/home/callisto/Desktop/DSA/Lab2/MissionImpossibleSort/src/genericlist.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 13" >
+      <vfs_project>/home/callisto/Desktop/DSA/Lab2/MissionImpossibleSort/missionimpossibesort.gpr</vfs_project>
+      <vfs_file>/home/callisto/Desktop/DSA/Lab2/MissionImpossibleSort/src/genericlist.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 41" line=" 57" >
+      <vfs_project>/home/callisto/Desktop/DSA/Lab2/MissionImpossibleSort/missionimpossibesort.gpr</vfs_project>
+      <vfs_file>/home/callisto/Desktop/DSA/Lab2/MissionImpossibleSort/src/linksort.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 4" >
+      <vfs_project>/home/callisto/Desktop/DSA/Lab2/MissionImpossibleSort/missionimpossibesort.gpr</vfs_project>
+      <vfs_file>/home/callisto/Desktop/DSA/Lab2/MissionImpossibleSort/src/genericlist.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 10" >
+      <vfs_project>/home/callisto/Desktop/DSA/Lab2/MissionImpossibleSort/missionimpossibesort.gpr</vfs_project>
+      <vfs_file>/home/callisto/Desktop/DSA/Lab2/MissionImpossibleSort/src/genericlist.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 4" >
+      <vfs_project>/home/callisto/Desktop/DSA/Lab2/MissionImpossibleSort/missionimpossibesort.gpr</vfs_project>
+      <vfs_file>/home/callisto/Desktop/DSA/Lab2/MissionImpossibleSort/src/genericlist.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 36" >
+      <vfs_project>/home/callisto/Desktop/DSA/Lab2/MissionImpossibleSort/missionimpossibesort.gpr</vfs_project>
+      <vfs_file>/home/callisto/Desktop/DSA/Lab2/MissionImpossibleSort/src/genericlist.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 16" line=" 4" >
+      <vfs_project>/home/callisto/Desktop/DSA/Lab2/MissionImpossibleSort/missionimpossibesort.gpr</vfs_project>
+      <vfs_file>/home/callisto/Desktop/DSA/Lab2/MissionImpossibleSort/src/genericlist.ads</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >/home/callisto/Desktop/missionimpossibesort.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >/home/callisto/Desktop/missionimpossibesort.gpr</vfs_project>
+      <vfs_file >/home/callisto/Desktop/src/linksort.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 48" line=" 58">
+      <vfs_project >/home/callisto/Desktop/missionimpossibesort.gpr</vfs_project>
+      <vfs_file >/home/callisto/Desktop/src/linksort.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 69">
+      <vfs_project >/home/callisto/Desktop/missionimpossibesort.gpr</vfs_project>
+      <vfs_file >/home/callisto/Desktop/src/linksort.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 75">
+      <vfs_project >/home/callisto/Desktop/missionimpossibesort.gpr</vfs_project>
+      <vfs_file >/home/callisto/Desktop/src/linksort.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 78">
+      <vfs_project >/home/callisto/Desktop/missionimpossibesort.gpr</vfs_project>
+      <vfs_file >/home/callisto/Desktop/src/linksort.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 4" line=" 39">
+      <vfs_project >/home/callisto/Desktop/missionimpossibesort.gpr</vfs_project>
+      <vfs_file >/home/callisto/Desktop/src/linksort.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

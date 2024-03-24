@@ -1,0 +1,29 @@
+Enter name: Enter Job type: Enter Age: Enter another name (yup or nope): Enter name: Enter Job type: Enter Age: Enter another name (yup or nope): Enter name: Enter Job type: Enter Age: Enter another name (yup or nope): Enter name: Enter Job type: Enter Age: Enter another name (yup or nope): Enter name: Enter Job type: Enter Age: Enter another name (yup or nope): Enter name: Enter Job type: Enter Age: Enter another name (yup or nope): Enter name: Enter Job type: Enter Age: Enter another name (yup or nope): Enter name: Enter Job type: Enter Age: Enter another name (yup or nope): Enter name: Enter Job type: Enter Age: Enter another name (yup or nope): Enter name: Enter Job type: Enter Age: Enter another name (yup or nope): Enter name: Enter Job type: Enter Age: Enter another name (yup or nope): Enter name: Enter Job type: Enter Age: Enter another name (yup or nope): Enter name: Enter Job type: Enter Age: Enter another name (yup or nope): 
+Job Type = PROGRAMMER
+TEDDY          17 PROGRAMMER link =    0
+
+Job Type = MANAGER
+BOB          43 MANAGER link =    2
+BEN          57 MANAGER link =    0
+
+Job Type = ACCOUNTANT
+SABLE          26 ACCOUNTANT link =    0
+
+Job Type = ANALYSIST
+BETTY          23 ANALYSIST link =    9
+TOM          23 ANALYSIST link =    8
+BETTY          23 ANALYSIST link =    1
+KEVIN          23 ANALYSIST link =    0
+
+Job Type = SALES
+SABLE          17 SALES link =   11
+SABLE          32 SALES link =   13
+SABLE          47 SALES link =    7
+DUSTIN          36 SALES link =    6
+DONALD          36 SALES link =    0
+
+Job Type = MANUFACTURING
+
+Job Type = INVENTORY
+
+Job Type = SOFTWAREENGINEER

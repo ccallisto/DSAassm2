@@ -1,0 +1,18 @@
+[GENERATED OBJECT FILE]
+b__linksort.o
+[PROJECT FILES]
+/home/callisto/Desktop/DSA/Lab2/MissionImpossibleSort/missionimpossibesort.gpr
+20240319202745 92343e5db240caf3626f1beef7d7bc83
+[BOUND OBJECT FILES]
+/home/callisto/Desktop/DSA/Lab2/MissionImpossibleSort/obj/linksort.o
+[GENERATED SOURCE FILES]
+b__linksort.ads
+b__linksort.adb
+b__linksort.ali
+[RESULTING OPTIONS]
+-L/home/callisto/Desktop/DSA/Lab2/MissionImpossibleSort/obj/
+-L/home/callisto/Desktop/DSA/Lab2/MissionImpossibleSort/obj/
+-L/usr/lib/gcc/x86_64-redhat-linux/13/adalib/
+-static
+-lgnat
+-ldl
